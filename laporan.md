@@ -3,7 +3,7 @@
 
 ## Sekilas Tentang
 
-PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk mendiskusikan ide kamu tentang suatu produk PHP. 
+PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk mendiskusikan ide kamu tentang suatu ide tentang PHP. 
 
 
 ## Instalasi
@@ -25,6 +25,7 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 
 3. Selanjutnya buka http://localhost (localhost -> alamat IP atau URL kamu). Selanjutnya ikuti langkah-langkah untuk konfigurasi.
 	- Konfigurasi database
+	
 	![](https://1.bp.blogspot.com/-e4NhG_YHubQ/WNPYTxYAV9I/AAAAAAAAAj8/TtWmV_9XqfgcDdqTa-m1JHRp-_KXX0GpQCLcB/s1600/4.PNG)
 	
 	- Menghapus file 
@@ -32,22 +33,28 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	``$ rm index.php``
 	``$ rm install1.php``
 	``$ rm database_tables.sql``
+	
     ![](https://3.bp.blogspot.com/-zwjC4EI3qfA/WNPb5LBJ56I/AAAAAAAAAkU/EQ71sIlWgBYLxMC0RDcojgTufi8Wcv8BwCLcB/s1600/7.PNG)
 	
 	- Pengaturan akun admin
+	
 	![](https://4.bp.blogspot.com/-8ZAN6X2wRT8/WNPYT_5_VSI/AAAAAAAAAj0/ZI6uW9tuPOcQM2vvCGROIWy0Yjr4pu_7ACLcB/s1600/5.PNG)
     
 	- Pengaturan user management
+	
 	![](https://2.bp.blogspot.com/-Zr_pa3R59NA/WNPYUSBMuBI/AAAAAAAAAkE/ATU_ZQUlbJAoWodIyUQXeZQnnO4vq38vwCLcB/s1600/8.PNG)
 	
 	- Menghapus direktori 
 	``$ rm -d install``
+	
     ![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
     
 	- Login admin
+	
     ![](https://1.bp.blogspot.com/-Arvn-7yc5hg/WNPbBpHo9UI/AAAAAAAAAkM/aevfIE0i8BE7StcCznI2cUZCVIKWVwpAACLcB/s1600/8_baru.PNG)
 	
 	- Selesai. (Masuk ke halaman admin)
+	
     ![](https://4.bp.blogspot.com/-ebEDcoHXrvI/WNPbBoaGY9I/AAAAAAAAAkI/mOSqSaWKs-g2jreWiDODV3STEaEZ8ySkgCLcB/s1600/9_baru.PNG)
 
 
