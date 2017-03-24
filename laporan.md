@@ -15,11 +15,11 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 
 #### Cara instalasi
 1. Unduh arsip ZIP instalasi PHPBack dan simpan ke dalam direktori var/www/html/. 
-```bash
-$ mkdir var/www/html/
-$ cd var/www/html/
-$ wget http://www.phpback.org/files/phpback_v1.3.1.zip
-```
+	```bash
+	$ mkdir var/www/html/
+	$ cd var/www/html/
+	$ wget http://www.phpback.org/files/phpback_v1.3.1.zip
+	```
 
 2. *Unzip* arsip yang sudah terunduh. 
 ``$ unzip phpback_v1.3.1.zip``
