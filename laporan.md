@@ -29,10 +29,10 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	![](https://1.bp.blogspot.com/-e4NhG_YHubQ/WNPYTxYAV9I/AAAAAAAAAj8/TtWmV_9XqfgcDdqTa-m1JHRp-_KXX0GpQCLcB/s1600/4.PNG)
 	
 	- Menghapus file 
-	``$ cd install``
-	``$ rm index.php``
-	``$ rm install1.php``
-	``$ rm database_tables.sql``
+	``$ cd install
+	$ rm index.php
+	$ rm install1.php
+	$ rm database_tables.sql``
 	
     ![](https://3.bp.blogspot.com/-zwjC4EI3qfA/WNPb5LBJ56I/AAAAAAAAAkU/EQ71sIlWgBYLxMC0RDcojgTufi8Wcv8BwCLcB/s1600/7.PNG)
 	
