@@ -72,16 +72,24 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 
 - Fungsi-fungsi utama user
 	- Register
+	
 	![](https://2.bp.blogspot.com/-K8sM7LndE84/WNPoEX5dQjI/AAAAAAAAAk0/ZUkoHD67utI6hF7vXE0z2L3Yfb2PdE06gCLcB/s1600/13.PNG)
 	
+	- Login
+	
+	![](https://hafshahluthfiah.files.wordpress.com/2017/03/login1.jpg)
+	
 	- Memposting idea
+	
 	![](https://3.bp.blogspot.com/-KDdDsJ0rl2o/WNPoEFBF31I/AAAAAAAAAkw/Pmo3sv-t1fIzktYoEJF3S7PeqFq6AWedACLcB/s1600/14.PNG)
 	
 - Fungsi-fungsi utama admin
 	- Approve/Delete idea atau Ban User
+	
 	![](https://4.bp.blogspot.com/-_5oyvMoMJQA/WNPm144HwFI/AAAAAAAAAkk/6MAO8bP-ISEvLoo-jAul7r8lTQS3JJuGACLcB/s1600/10.PNG)
 	
 	- User management
+	
 	![](https://2.bp.blogspot.com/-42q-NwmIeA0/WNPm2ODOpHI/AAAAAAAAAko/n5nnO16XURUtft9jk94MrDAZcANR9WtzACLcB/s1600/12.PNG)
 
 
