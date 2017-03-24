@@ -31,14 +31,14 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	![](https://1.bp.blogspot.com/-e4NhG_YHubQ/WNPYTxYAV9I/AAAAAAAAAj8/TtWmV_9XqfgcDdqTa-m1JHRp-_KXX0GpQCLcB/s1600/4.PNG)
 	
 	- Menghapus file 
-	```bash
-	$ cd install
-	$ rm index.php
-	$ rm install1.php
-	$ rm database_tables.sql
-	```
+		```bash
+		$ cd install
+		$ rm index.php
+		$ rm install1.php
+		$ rm database_tables.sql
+		```
 	
-    ![](https://3.bp.blogspot.com/-zwjC4EI3qfA/WNPb5LBJ56I/AAAAAAAAAkU/EQ71sIlWgBYLxMC0RDcojgTufi8Wcv8BwCLcB/s1600/7.PNG)
+    	![](https://3.bp.blogspot.com/-zwjC4EI3qfA/WNPb5LBJ56I/AAAAAAAAAkU/EQ71sIlWgBYLxMC0RDcojgTufi8Wcv8BwCLcB/s1600/7.PNG)
 	
 	- Pengaturan akun admin
 	
@@ -51,15 +51,15 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	- Menghapus direktori 
 	``$ rm -d install``
 	
-    ![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
+    	![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
     
 	- Login admin
 	
-    ![](https://1.bp.blogspot.com/-Arvn-7yc5hg/WNPbBpHo9UI/AAAAAAAAAkM/aevfIE0i8BE7StcCznI2cUZCVIKWVwpAACLcB/s1600/8_baru.PNG)
+    	![](https://1.bp.blogspot.com/-Arvn-7yc5hg/WNPbBpHo9UI/AAAAAAAAAkM/aevfIE0i8BE7StcCznI2cUZCVIKWVwpAACLcB/s1600/8_baru.PNG)
 	
 	- Selesai. (Masuk ke halaman admin)
 	
-    ![](https://4.bp.blogspot.com/-ebEDcoHXrvI/WNPbBoaGY9I/AAAAAAAAAkI/mOSqSaWKs-g2jreWiDODV3STEaEZ8ySkgCLcB/s1600/9_baru.PNG)
+    	![](https://4.bp.blogspot.com/-ebEDcoHXrvI/WNPbBoaGY9I/AAAAAAAAAkI/mOSqSaWKs-g2jreWiDODV3STEaEZ8ySkgCLcB/s1600/9_baru.PNG)
 
 
 ## Konfigurasi (opsional)
