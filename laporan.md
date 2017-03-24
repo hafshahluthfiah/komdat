@@ -3,7 +3,7 @@
 
 ## Sekilas Tentang
 
-PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk mendiskusikan ide kamu tentang suatu ide tentang PHP. 
+PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk mendiskusikan suatu ide tentang PHP. 
 
 
 ## Instalasi
