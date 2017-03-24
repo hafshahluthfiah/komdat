@@ -88,7 +88,7 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	![](https://3.bp.blogspot.com/-KDdDsJ0rl2o/WNPoEFBF31I/AAAAAAAAAkw/Pmo3sv-t1fIzktYoEJF3S7PeqFq6AWedACLcB/s1600/14.PNG)
 	
 - Fungsi-fungsi utama admin
-	- Approve/Delete idea atau Ban User
+	- Approve/Delete idea dan Ban User
 	
 	![](https://4.bp.blogspot.com/-_5oyvMoMJQA/WNPm144HwFI/AAAAAAAAAkk/6MAO8bP-ISEvLoo-jAul7r8lTQS3JJuGACLcB/s1600/10.PNG)
 	
