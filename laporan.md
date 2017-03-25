@@ -99,7 +99,7 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
+- Pendapat tentang aplikasi web ini
 	- Pros:
 		- Situs PHPback merupakan sebuah aplikasi berbasis web yang sangat bermanfaat terutama untuk web developper. Dengan adanya PHPback, orang-orang dapat saling membantu satu sama lain dalam bertukar idea mengenai developping system. PHPback ini merupakan salah satu fasilitas untuk mencerdaskan komunitas-komunitas web developper di seluruh dunia. Keunggulan PHPback diantaranya adalah sangat responsive karena sistem dibangun dengan framework bootstrap. PHPBack dibuat dengan CodeIgniter Framework, sehingga para php developper dapat dengan mudah untuk memahami dan mengedit code.
 		
