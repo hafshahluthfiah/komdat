@@ -50,7 +50,7 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	
 	- Menghapus direktori 
 	``$ rm -d install``
-	
+-	
     	![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
     
 	- Login admin
@@ -101,13 +101,10 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 
 - Pendapat anda tentang aplikasi web ini
 	- Pros:
-		Situs PHPback merupakan sebuah aplikasi berbasis web yang sangat bermanfaat terutama untuk web developper.
-Dengan adanya PHPback, orang-orang dapat saling membantu satu sama lain dalam bertukar idea mengenai developping system.
-PHPback ini merupakan salah satu fasilitas untuk mencerdaskan komunitas-komunitas web developper di seluruh dunia.
-Keunggulan PHPback diantaranya adalah sangat responsive karena sistem dibangun dengan framework bootstrap. 
-PHPBack dibuat dengan CodeIgniter Framework, sehingga para php developper dapat dengan mudah untuk memahami dan mengedit code.
+		- Situs PHPback merupakan sebuah aplikasi berbasis web yang sangat bermanfaat terutama untuk web developper. Dengan adanya PHPback, orang-orang dapat saling membantu satu sama lain dalam bertukar idea mengenai developping system. PHPback ini merupakan salah satu fasilitas untuk mencerdaskan komunitas-komunitas web developper di seluruh dunia. Keunggulan PHPback diantaranya adalah sangat responsive karena sistem dibangun dengan framework bootstrap. PHPBack dibuat dengan CodeIgniter Framework, sehingga para php developper dapat dengan mudah untuk memahami dan mengedit code.
+		
 	- Cons:
-		Tidak ada validasi email ketika mengisi form registrasi user, sehingga orang dapat mengisi field email dengan email palsu dan melakukan spamming pada akun PHPback anda.
+		- Tidak ada validasi email ketika mengisi form registrasi user, sehingga orang dapat mengisi field email dengan email palsu dan melakukan spamming pada akun PHPback anda.
 		
 - Bandingkan dengan aplikasi web kelompok lain yang sejenis
 
