@@ -1,11 +1,7 @@
 # Aplikasi Web "PHPBack"
 <h1 align="center"><img src="https://camo.githubusercontent.com/7ac12e2c47bac7d36816e983d14fa4d5144a286b/687474703a2f2f7777772e7068706261636b2e6f72672f696d616765732f6c6f676f5f3330302e706e67" width="500px"></h1>
 
-> Shita Maharani (G64140037)
-
-> Selfi Qisthina (G64140059)
-
-> Hafshah Luthfiah (G64140096)
+> Shita Maharani (G64140037), Selfi Qisthina (G64140059), Hafshah Luthfiah (G64140096)
 
 ## Sekilas Tentang
 
