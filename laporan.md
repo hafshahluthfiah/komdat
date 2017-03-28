@@ -3,7 +3,7 @@
 
 ## Sekilas Tentang
 
-PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk mendiskusikan suatu ide tentang PHP. 
+PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinkan pengguna untuk membagikan suatu ide dan mendapat feedback dari user lain mengenai ide tersebut. 
 
 
 ## Instalasi
@@ -106,9 +106,13 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	- Cons:
 		- Tidak ada validasi email ketika mengisi form registrasi user, sehingga orang dapat mengisi field email dengan email palsu dan melakukan spamming pada akun PHPback anda.
 		
-- Bandingkan dengan aplikasi web kelompok lain yang sejenis
+- Perbandingan dengan aplikasi web sejenis
+	- UserVoice
+		UserVoice merupakan sebuah aplikasi berbasis web dimana seorang developer atau sebuah perusahaan dapat berbagi ide nya atau feedback dari customer. beberapa fiturnya adalah sharing ideas, voting ide terbaik dan membuat forum. Perbedaan UserVoice dengan PHPBack yaitu phpback merupakan opensource sedangkan uservoice bersifat berbayar dan terbilang cukup mahal yang dapat menyebabkan projek-projek kecil atau pun perusahaan kecil susah untuk menjangkau UserVoice.
 
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+https://github.com/ivandiazwm/phpback
+https://github.com/ivandiazwm/phpback/wiki/How-To-install
+
