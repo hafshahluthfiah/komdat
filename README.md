@@ -86,7 +86,8 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	![](https://2.bp.blogspot.com/-K8sM7LndE84/WNPoEX5dQjI/AAAAAAAAAk0/ZUkoHD67utI6hF7vXE0z2L3Yfb2PdE06gCLcB/s1600/13.PNG)
 	
 	- Login
-	![](https://hafshahluthfiah.files.wordpress.com/2017/03/l.jpg)
+	
+	![](https://hafshahluthfiah.files.wordpress.com/2017/03/l1.jpg)
 	
 	- Memposting idea
 	
