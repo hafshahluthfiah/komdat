@@ -1,10 +1,6 @@
 # Aplikasi Web "PHPBack"
 
-> Shita Maharani (G64140037)
-
-> Selfi Qisthina (G64140059)
-
-> Hafshah Luthfiah (G64140096)
+> Shita Maharani (G64140037), Selfi Qisthina (G64140059), Hafshah Luthfiah (G64140096)
 
 ## Sekilas Tentang
 
