@@ -52,8 +52,8 @@ PHPBack adalah sebuah aplikasi web yang dibuat dengan PHP/MySQL yang memungkinka
 	
 	- Menghapus direktori 
 	``$ rm -d install``
--	
-    	![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
+	
+	![](https://3.bp.blogspot.com/-nrzRq5wXwTo/WNPbLXY-nqI/AAAAAAAAAkQ/SmRBQzUBUv8XHogVp_CVk1Kqg7gYtFBdACLcB/s1600/7.PNG)
     
 	- Login admin
 	
